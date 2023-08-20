@@ -11,3 +11,5 @@ print('the value of 3+4 is',3+4)
 a = 68
 a +=1
 print(a)
+# this line is writing by ishaque
+print("for github")
