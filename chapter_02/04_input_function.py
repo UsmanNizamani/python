@@ -1,0 +1,10 @@
+# input function is very important
+a =input("Enter your name")
+b =input("Enter your father's name")
+c =input("Enter your department")
+d =input("Enter your age")
+d =int(d)
+print(a)
+print(b)
+print(c)
+print(d)
